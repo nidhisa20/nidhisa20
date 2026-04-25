@@ -1,6 +1,6 @@
 # Hi there, I'm Nidhi Saini 👋  
 
-💻 Software Developer | 🤖 AI Enthusiast  
+💻 Software Developer | 🤖 AI Enthusiast  | 🚀 Problem Solver 
 
 ---
 
