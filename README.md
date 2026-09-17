@@ -24,9 +24,6 @@ I'm a Computer Science graduate interested in **Software Development, Backend En
 
 **Tools:** Git, GitHub, VS Code, Postman
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhisa20\&show_icons=true\&theme=radical)
 
 ## 📫 Connect With Me
 
